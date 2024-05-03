@@ -36,5 +36,5 @@ WHEN I click on the "New Note" button in the navigation at the top of the page\
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 
 ## VIEWING MY PROJECT
-Link to Deployed Application: <i> https://github.com/rapostoljr/challenge_11_note_taker.git </i>\
+Link to GitHub: <i> https://github.com/rapostoljr/challenge_11_note_taker.git </i>\
 Link to Deployed Heroku: <i> https://challenge-11-note-taker-9201751f4d1d.herokuapp.com/ </i>
