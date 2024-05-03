@@ -38,4 +38,3 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## VIEWING MY PROJECT
 Link to GitHub: <i> https://github.com/rapostoljr/challenge_11_note_taker.git </i>\
 Link to Deployed Heroku: <i> https://challenge-11-note-taker-9201751f4d1d.herokuapp.com/ </i>
-Link to Walkthrough: https://drive.google.com/file/d/14jFr-osFubjzJNv4xmDXktDM0riFxKmS/viewLinks
